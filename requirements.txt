@@ -4,3 +4,5 @@ ipykernel
 ipywidgets
 seaborn
 plotly
+openpyxl
+pandas

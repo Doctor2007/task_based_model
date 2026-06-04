@@ -1,4 +1,8 @@
 matplotlib
-sympy
 numpy
 ipykernel
+ipywidgets
+seaborn
+plotly
+openpyxl
+pandas
